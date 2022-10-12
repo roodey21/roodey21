@@ -1,7 +1,7 @@
-### Hello world 👋
-- 🔭 I’m currently working on -> indah cargo logistic, beside that i'm studying programming till now. but if you have some question for me, fell free for contacting me
-- 🌱 I’m currently learning on backend framework, especially laravel, SPA, database design, etc. I'm also have an interest in frontend dev, but I'm just learn javascript and AJAX for now.
-- 👯 I’m looking to collaborate on one who can be relied on and can support each other
+### Hello world 👋, I'm roodey, a junior backend developer based on Tobacco City. 
+- 🔭 I’m currently working as backend developer freelancer.
+- 🌱 I’m currently learning on backend framework, especially laravel, SPA, database design, etc. I'm also have an interest in frontend dev, but I'm just learn TailwindCSS and javascript for now.
+- 👯 I’m looking to collaborate on one who can be relied on and can support each other.
 
 <!--
 **roodey21/roodey21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
